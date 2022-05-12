@@ -1,0 +1,11 @@
+0-10,10-19,20-29,30-39,40-49,50-59,60-69,70-79,80-89,90-100
+High,High,Good,Good,Fair,Low,Low,Low,Low,Low
+High,High,High,Good,Fair,Fair,Low,Low,Low,Low
+Good,High,High,High,Good,Fair,Fair,Low,Low,Low
+Good,Good,High,High,High,Good,Fair,Fair,Low,Low
+Fair,Fair,Good,High,High,High,Good,Fair,Fair,Low
+Low,Fair,Fair,Good,High,High,High,Good,Fair,Low
+Low,Low,Fair,Fair,Good,High,High,High,Good,Fair
+Low,Low,Low,Fair,Fair,Good,High,High,High,Good
+Low,Low,Low,Low,Fair,Fair,Good,High,High,High
+Low,Low,Low,Low,Low,Low,Fair,Good,High,High
